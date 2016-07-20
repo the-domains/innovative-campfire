@@ -1,14 +1,17 @@
-layout_spectrum: 0.4527994638774544
 typography_spectrum: 0.836669689277187
+content_rating:
+  adult: false
 color:
   brandStrength: 0.008145712548866868
   lightness: 0.8669898505322635
   saturation: 0.8163492747116834
   rhythmicContrast: 0.9427379763219506
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: innovative campfire
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.4527994638774544
+name: InnovateMe
+title: What have you done today?
